@@ -1,1 +1,2 @@
-Award = Struct.new(:name, :expires_in, :quality)
+Award = Struct.new(:name, :expires_in, :quality) 
+
